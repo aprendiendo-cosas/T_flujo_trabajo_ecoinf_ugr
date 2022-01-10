@@ -55,7 +55,7 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 
 
 
-
+![image](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/main/presentacion/metodologia.png)
 
 
 
