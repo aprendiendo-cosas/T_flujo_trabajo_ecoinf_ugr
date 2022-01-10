@@ -72,7 +72,19 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 
 
 
-Iremos trabajando en los pasos anteriores durante dos sesiones de dos horas. Será un trabajo colaborativo en el que los alumnos propondrán ideas y el profesor irá plasmándolas en un esquema de flujo usando una aplicación llamada [Diagrams](https://app.diagrams.net/). El flujo de trabajo resultante se mostrará a continuación.
+## Resultados
+
+Iremos trabajando en los pasos anteriores durante dos sesiones de dos horas. Será un trabajo colaborativo en el que los alumnos propondrán ideas y el profesor irá plasmándolas en un esquema de flujo usando una aplicación llamada [Diagrams](https://app.diagrams.net/). 
 
 
+
+En la primera sesión (10/01/2022) identificamos variables potencialmente interesantes para resolver las dos preguntas descritas anteriormente. El flujo de trabajo resultante se puede descargar aquí y ver a continuación.
+
+
+
+<iframe frameborder="0" style="width:100%;height:871px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=20220110_workflow_pinares_1.drawio#R5Vtbc6M2FP41fmzGgAHzuGun24ftzHbSmWz7siODDEpBYoXkxPn1lYS4iiRsmzXYfrCNDhIS5%2FKdi%2BSFs8mePlGQJ7%2BTCKYLexk9LZztwratle2JH0k5lpS1tywJMUWR7tQQ7tAz1MSqG0cRLDodGSEpQ3mXGBKMYcg6NEApeex225O0O2sOYmgQ7kKQmtR7FLGkpNqO4zU3foMoTqqpPXdV3slA1Vu%2FSpGAiDy2SM7twtlQQlh5lT1tYCq5VzGmHPfrC3frlVGI2ZgB%2F3z99sf3b%2Ff0uLI2h8N9EFmQ%2FKJfo2DH6o1hJBigm4SyhMQEg%2FS2oX6khOMIyqcuRavp85mQXBAtQXyAjB21NAFnRJASlqX6rlgwPX7V41XjL9m4cavm9ql9c3vUrT3BTD80EE2TAZonBeE0hK%2B8daVJgMaQvdLPLftJlrQm0Oz9BEkGxfJEBwpTwNChqzNAq15c92uEIy60fH5AVvq5B5ByPdMXCkOUIwZCtNg4i48ONsTZFdZjghi8y4HizqMw2a5gXuToAVIGn17lgb67Wmp11wbv%2B7r92JiPVZlE0rKcChjenW2rc1Lx%2F67T9kiddmal07ah01uICxSBSDoN5UxyhAGdXK%2BdoKvX9npqvXYM1n1QPCvZJ5ymvdyBByB%2FU6AEGkMMaRsrlnWvG%2FFrDAcpU8MZyHZq0IfABBjh1nJ5GZGQZ4q%2Fb0ljV4ru864ijMX18dJy3Z60fP%2FGNeVlDcnL%2FUnycgfllSm%2BWpLN%2BQCab7pdBmR4FuIIRjiF5SmNxz8np%2FBucc96pI8IZuUj1qaPQEVOMNqhtPYUKuLGYaIAKxJiiQgtr6EyLSEiZUUxT0kxO2%2BymtybBG%2BhUwgwG%2BT22xDlpRKGdsKJe7G8%2BrPjT5YI71N%2BhI2fSjs%2BipGcxLScYI9C2UWah%2By%2F5%2BJKuSrJ24JnIlmkpLgxp%2FwQwWaNcsUJkEO%2Bc%2FkYJhesHivfUz4TVIuJBjVNUiEtCIVyrrNA4HVP4bwBhfMGFK6G5fdPZ5YG664Bg62xyadlzwqFLTP9vBVWIIygjtQLDlMyObb2M1BvcmytJPla6Ef2gksaYy4v4BuUwUkDPsu5TrRZjUWbmdW6VobJ8IIUfagpXXZZJgCFiPkmRx%2Bn52ityetf1nDiqdnZwhokYilcUk22qigPYoX25wpK%2FgjRnBaUrrT87o8FpfW8QMk3LKlTrVRqQ3fKorYHQmeYaNaOeTo4MtP5XjBk8PASsGc9Qg6nxZ7gKrGn0vU3sad64kywp1p3y2wykIMad4SqtzdNVHwki%2FqwYDJOKmBZQdkCNREEaTVSlTkyLjV5dmi1HqpSnBStbDPr7aNVxfkLKdWvR4jgpEBl2%2BcEVP8DmZyxyLSaFzKZG5FfKIl42C7i5hRlgCIwO4hxfHtoZ%2FC0IGMmu2Z96EWGXgLouH2hDIDOSTdrbfdKQMcbCzr%2BvEDHM0xmiwoGcKhMQn4OOuCpNwFDknGMwhkdlgq8uRWLbDPF7UFR1LBZRjw5VGkZigiGOhEWLCn38UK0Q%2FImo4CBDAk%2BqeLSXu6bMZBCMz2eJTpZtQgqMXnTnyax11cCUMFIgHKW8wIoc0P9b4LRvos%2FOltjkFLECEXT16%2F7kPTCyanTnnQzc98tzCGOBKTI2nQrkX0e4HGhToCQSJ8hkKREcFAiE8cKkXoAxcWHsKHy3Xngk%2B1PjU6OZbDuItHJscei07yO3Vbr7uRsSADQc%2Fd4qPzaczyAWCivDY8X84OtOaR1jpkYh8L4YZan8kBzyTyQxhyDMirK5K86kqQiKxVYwQfZX2%2FAKXlw%2BZVBwSx52EmFYDRDDGUKuyQBq53RgsGeoEDIuJCviNTOFdmmTwydK%2Fk7geOORTZvXshm7nZvxaS02qXbIZKWYBars4QzK0cFc8AtM7c2csCGoxdS9nb7cvh5QCOazb%2F%2B1L3Wnyed238B"></iframe>
+
+A continuación puedes escuchar el audio de la primera sesión. No hay vídeo porque se me olvidó compartir la pantalla en el meet :(
+
+<iframe src="https://www.ivoox.com/player_es_podcast_1440573_zp_1.html?c1=8daa4d" width="100%" height="400" frameborder="0" allowfullscreen="" scrolling="no"></iframe>
 
