@@ -94,7 +94,7 @@ A continuación puedes escuchar el audio de la primera sesión. No hay vídeo po
 
 + En la tercera sesión (12/01/2022) finalizamos el proceso de identificación de fuentes de datos para generar los mapas de las variables elegidas. También esbozamos brevemente las tres metodologías de integración que se podrían utilizar para responder a la pregunta que nos hicimos al principio. El siguiente vídeo muestra la transcripción de esta sesión:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XwYdb5x6RzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cd2JQZrZhfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Además, el flujo de trabajo que elaboramos de manera conjunto toma la siguiente forma y se puede descargar [aquí](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/2021-2022/presentacion/20220112_workflow_pinares_2.drawio.zip). Aunque veas el esquema muy pequeño, puedes hacer zoom con la lupa que aparece cuando te pones encima.
 
