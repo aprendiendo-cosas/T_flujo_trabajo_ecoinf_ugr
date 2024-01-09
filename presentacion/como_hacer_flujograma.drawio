@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2024-01-09T12:01:31.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="JPdiSFHRecU2jTBInPCE" version="22.1.2" type="device">
+  <diagram name="Page-1" id="jTY0y7oBsAC4PqQySQiH">
+    <mxGraphModel dx="1674" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kp0vRZ39sJb5cZK4w948-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-1" target="kp0vRZ39sJb5cZK4w948-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-1" value="¿En qué pinares de repoblación debemos de intervenir&lt;br&gt;&amp;nbsp;para maximizar la regeneración de la vegetación natural?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-3" value="Pregunta imposible&lt;br&gt;(no sabemos qué hacer)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-7" value="Apelo a lo&lt;br&gt;que sé" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kp0vRZ39sJb5cZK4w948-9" value="Pregunto a quien sepa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

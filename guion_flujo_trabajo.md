@@ -72,6 +72,59 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 
 
 
+## Nueva propuesta de hilo argumental
+
+- Planteamos la pregunta.
+- Describimos a dónde queremos llegar: flujograma. Conjunto de pasos ordenados cuya aplicación resuelve la pregunta inicial.
+- Constatamos que no sabemos cómo resolverla. Ante este tipo de preguntas tenemos dos formas de abordaje:
+- Apelar a lo que sabemos sobre el asunto:
+  - lluvia de ideas sobre qué hacer. Es importante que anotemos todas las ideas que surgen.
+  - Recurrimos a la presentación del día anterior.
+- Preguntamos al que sepa:
+  - Google...
+  - ChatGPT
+- Recopilamos lo que hemos aprendido y empezamos a construir el flujograma.
+
+
+
+
+
+
+
++ Cuestiones que deben de salir a relucir en el proceso:
+  + Necesidad de identificar las variables socioecológicas implicadas en el proceso estudiado.
+  + Grado de investigabilidad de la pregunta en cuestión. 
+  + El papel que podría jugar en nuestro problema la aproximación correlacional.
+  + Existencia de otras formas de generar conocimiento y de responder a la pregunta:
+    + Modelado ecológico.
+    + Experimentos controlados.
+    + Conocimientos locales y expertos.
+  + Concepto de variable ecológica como descriptora del sistema que estamos estudiando.
+  + Concepto de variable subrogada.
+  + Existencia de distintas formas de representar una variable ecológica relevante.
+  + Idea de fuente de datos.
+  + Procesamientos para transformar datos primarios en variables utilizables para nuestro objetivo.
+  + Grado de espacialización de una variable.
+  + Concepto de serie temporal
+  + Hipótesis previas sobre cómo creemos que condicionan las variables consideradas al proceso en cuestión.
+  + Concepto de iteración: repetimos el proceso hasta que estemos contentos
+  + 
+
+
+
+
+
++ Modus operandi:
+  + Diagrama de draw.io con dos flujos de trabajo paralelos.
+  + Uno indicando cómo procedemos para hacer el flujo de trabajo
+  + otro con el flujo en sí
+
+
+
+
+
+
+
 ## Resultados
 
 Iremos trabajando en los pasos anteriores durante dos sesiones de dos horas. Será un trabajo colaborativo en el que los alumnos propondrán ideas y el profesor irá plasmándolas en un esquema de flujo usando una aplicación llamada [Diagrams](https://app.diagrams.net/). 
@@ -103,3 +156,4 @@ Iremos trabajando en los pasos anteriores durante dos sesiones de dos horas. Ser
 
 <iframe frameborder="0" style="width:100%;height:1763px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=20221121workflow_pinares_3.drawio#R7R3Zdpu69mu8VvrgLEbbeXTipKe9TU%2Fb9La3jzIotnIAUQGZvv5KTAZJxjSxETjnoSnIDGJP2rNG5oX%2F%2BJ6AcH2NXeiNDM19HJmLkWGYlmnR%2F9jIUzZiGNNJNrIiyM3G9M3ADXqG%2BaCWjybIhVHtwhhjL0ZhfdDBQQCduDYGCMEP9ctusVd%2FawhWUBi4cYAnjv5EbrzOP8M0J5sf%2FoJotS5ePbHzT%2FZBcXX%2BKdEauPihMmRejswLgnGcHfmPF9Bj4CsAk913teXXcmYEBnGbG%2B4W1ySJfz2vxsE3ZN9cfXw4D8f5U%2B6Bl%2BRf%2FAVHyEGjC3N0bgb0JwI9EKN7wLAI6R8PROnXBc46PXJxQL%2BLZMfsggj6yMuuIjAKKVYwQ0Z5q4tAkB6chCigs4%2FejYyJRz%2FhfEno0Yod5RCLnwo8UOCF7JB%2BLvA86OEVAT69MIQE%2BTCGhP%2Fty%2BaH84c1iuFNCBz2hAdKqXRsHfsePdPp4S16hAXp6eXLq4AtoARJDB8rQzmg30NMX0We6CX5r7adIz2n%2B7Gp66eGnY09bAhJL65bV2joLB8DOe2uysdvsEsPcgT%2FAbINAdlzh7LXc4o5dneUUOgNHvamXYO9Ycw0EfCGBPCTgwF%2BKkBegDJ0qeDJTzGJ13hFGcu73IyeE5wELmTv0ejZ5ppPGIc5%2BO5gHD%2Fl4AQJZbwasLcCN8IJcWDDB5i56AVkBeOmD83FIvuYRlzlUqUuZfcOd1MA%2BzUIS0kmip05XVjixB08Bxh1DpjoqhnAEhDxHfoUeiBOCBg6uCdWHdxTWzW4bXFVJ9BBIYpBZWkfONT1%2BhI7m6qG%2BlmjtAlh4CL6uVSbHTjkZ70TL8UEKqD%2FBqieWdVjI%2BwBwh4UMJ2H4mHoaLCndTSYZ8rRMBHRgB1qT7hg%2BGsqJ%2BQNrUt58wl55rPvf3S0Hwl5uPwcOH%2BhkuqHokQauRZQ1SKlH5YL0p4okYaovCxgkBN1bjilluzgSXxaX1F1a6JaohizgZH4RCTxJl2hLyQuCu4bD4fiEknW2F8m0W7y3AM5Ts44NUMTqXEmIcbZoeStJZqTvaXOxe%2Fv%2Fuev%2Fjwc%2F0w%2BXl1dX%2FznYVw4%2B3bKX8tQRZ1N067KXxTFgOpxqRuRadi3Sa5ZN7kjBy6deZei3qXaLaUTc2D0b7Skf1PvFf0bTfoHm4ZL2YGgZVI1dzJfPU4ZJEA%2B8DLuQBEl7wiT4Vuh9oTjB8uQ8MOh%2FOtyQaVEW6EgJE%2F%2Fy%2B9PT36xk1O7OF08Vn9cPOVnL%2BcjiTdYDo9pr%2FhIXL7fE7pWFMxyS8DKp7AAW9goj1YNnm84tWo8szqMS0kRIzGwigU%2BX9%2BDFCNzx4MpKhKyBAEePio4n4I%2BlfkUOkWF6DleSBYX9g1gSeVWgaOUTdaQLNk188U9JkeAHbO%2BwMjca53iRjTSeDa5z8C%2FUX4d7CcBco7H688Hd%2FUz9au%2B%2FTZW%2FWnbVd%2Fs1aovht6%2FQwr6quAKCXYTpyrgQkrjgKRXQHaeOvkozRMUY4IGnyJRmoklFylnIjGCo4KrXs4ds5bcoczx1zTrCtTPEXbpa0ndv308pM9Hzca2cp1LHxipn7VdCPrlRhHD81dJINh6MQFBdIuJX9WZxPTEye%2BE5W2esxXCT7UuPfOvVFinMg7CPLGouE%2FAeJee9RnvSrRl8r%2FQa6o8oBvTU%2FtQbCD6eecF2CRiSIvgKrMKGe6WdbE1bBmla7xvy%2B4yEifHzmRYQkpv7aSyeiWldNFLtScxFVfU3opoCnGE8vzuk%2BpwXSd%2BNzIudoq0CfAZcwTLKFQt4kyrFFSFjitjIUvCQuXg%2FnErOrraS7gq%2BlKbxAM7TJdhC0EhG0GWxd2pnlYWchy5oa%2B3tvT7Zczooqm%2Ffw1PFiUYlGQUlD9p4mzHglHUzdsLxi1xm6NJy9J5b00PIjaGqKv7IKz4nSmuKNAkQQD60XEdZMBDq4AeOyyFg4GYgQY5wJvnP%2FjIdTNZCiP0DJbpo5iICzEK4vTT7PORvWDPouIz2kA%2Fign%2BB15gDzOcBjiAKYo8jxvaC5YsDktnsvwMXYIl42BYMpqxdM%2F0hKUniWkeK5YmXOr6WBo%2BkBlWh0NSm6yywJ2zYtYNLCqYqWsYW4G0c5GuQEAmS4qx1mt5%2FoYvDP0VtU7j8qhNXkhl%2Bkl%2B2wa4wpOm%2FJPKouHiSZkCIzwpRVP54a%2FAnKjOHzPmrDONg7dhvxRz3JNM2%2B4Wc2KYO4ucBi5yYCEe14kPU28Sr70dVbUsX9egd1nXIM%2FT0QWgHqWdJUsWlwNEaykIOsqjsv7FTx0g%2FYp4m9N%2F8VMHiLKq9MZ5V6OuICqXHRfEuFTRUyff%2FPL68vvWhcZ58hBFHTF3rx%2FLDMmfluUAcP5Zpaj%2FO4npY0qVPF9j7P0sMpwrb2aK9utEssLso5JDThASRa1LDjnVJjOOS8zZDj5Jzyq6wmtzeDWReZpqyXvCO8W0qyWmcMVMzo3vh9ExYE%2F6Qv%2Bl12i3J3lrh3cC4rv0vRlcXE9aOW3KXG%2FmwVhBSfbaK%2Bi2bSuSntGtaOV%2FYI6UEHs1vyWMKP2hlHpPPix%2Bjsw5e3LAItvp2pAlfLLDh5Q8FNMzL9hl3pSO6fk4ajC6J%2B%2F01jkh4KlyQe672%2B4T4ARa6QXdZvrzN5xpGofybApb7ta2vG6XC2JfjgNTVN181vSOBSVuMxdChBx29jtJiw%2BRn3hgVAZrdzZh6ZR7%2BfIDTRYil3mU9IPZ%2FpYS2%2F8Vy1HbZDirZza8GHH7vPjxgX0JjtPlZ5P3fBRRtBlH62aX1bNyilBshHRlplttLQ2jX5lYlmhqAG%2BFexXMN854spZkyRyqSUIy9r46d3%2Fff%2FvxgzwGl%2FHf%2F33vSor1s9r8Ud27wcHsWOONXMhkrGsysaNJELSPeKO8uP3opI68OZIodKTXGapkjnQ2SpJs%2B4scZTZ806xrJvw9SzzKkpJuWVeFTHe6QcEtlSH3wN2ehjkAty1XAKvbksaWh%2FLbyhvTvA32MJQpTC9yAphcUo1u853I%2BRyQGU9YRoMX4AW2exNUK%2ByLmj1wKvU63lyRsV6nza%2BUxBRfzkKHcY%2FtpmSLz2baXyZL03dWidoPk3gAFD1V3c5NUvsKIlhGXoswLKMQBzGybZUn2da4aG%2FfyHDTMnPsT0rOWqz1ZxL07MORL9e2lLhHXi5xJI5A%2BXcpq4ptmnaFC5wEBGlXJC9rkFC2Gkt5w4cBJeOcR%2BZZ7UN6IYErGEBSkzwgSRPzT%2BnhJdWNYP1581HWSea86REBm4kD%2FCVKH%2FOLoQJtnRx42kzufMfkluCO%2FbQGVGln74BETObrtDCDZ0FL1kdeFk07mIjcUZIbpXDOfMRJEJedtO5RBtJNBot7lA1zN94cJR1z5Sg7vm408u%2BU5AHIL1TmVW6c95ZdAu6poDqiTRr4mpiZbA%2BkTvnDEM3AYekZetsu6q3LBzoifLFa4vIxJgCyBTvvsIi9LIZOYZkO5EF0CIJiyZDo4N2GzHmClqQydmrFSPZcyOTJsAUHb49sLG11K6tYXixL23UwI9b8rXk%2FPvZoP8yJ20HxoL3COucWNmRKT6duYV005UOCHegin%2B24k24%2FSIVzBv44y88plVUfBPAOjxrDk12KGL7a15hICnI6FTHGGwkZynLvmhoJ92RhldRiXwDPSbLtjqKESvhb5CBK3Vf0MGMC9uaS5p00TFVffZWyAJ%2FmN55turnsipvr2h76U8nhPDAXeOvtdtRt2ihPUHgjQfDW%2BDH7FQaXlD2%2FP%2F9wNWSVhovijCeqA9093vdIPt%2BO4m18wcHY5hPAt8Tb%2FjSmzdsf46Ib%2BLaYtjiz%2Bg0HimmL8T%2F%2FeL1JY9767rQtohwBZ29ksWpbazvr11olekecrFEXU5AzDZg9RNL94WYNggCXXcPkSnJ%2B%2B5%2FwXLf1WXyzY%2BkeobJGr3wvlf2pd2Ja9c3XTwKYjieyzvdbm1jtlIuDRdaPsH9D4zZeuxXsfhn0pmjQ77%2BPobh9S21vsB43r%2BaVAMucnU4l3oED9q9upKIXNTGsA%2F%2BoNi7UNV41tjTVUUBT9BirkImvkG12W9mmbA%2B2xnlLo4AhpX5YbOuZ5ZZQrnBQfetCUG%2BO8kwhTv87AYRC0QXMlc%2FSfhJqbDkgOwbEZZyUnRAMXcZmaivn%2BSAKlWISnjhY6bw8u17UzAbGFJLGxfILlTUubpx3LTX9lgptMuJSp%2BQrBfBWScoEqTaglK5NnadrScFbt7s297eivJE2d1raRr9oWEwkvU0iljfNiDjL76g1n22ka4UUbAmSWTkFv5GUvqIgfvf%2B5P1K6Svm%2FRJ7TeMMNJglPrmVjR37a4lNOO9SqcMr45TXbLDhcptp%2BvRkDY56T3lds2YcCpVvKm%2BLFsKwFnBL4iqXf2nPxJh8f1n5xvIpL2SdHY6QKzgNwFDPFAPLPbHaWmJ2v3JPLNES284D6UodJT5yYbrdtXaSpyi%2FOzaO4Go3x122CJfjSfTfLTh7IhNRrRZx7eQzcNZpyRv7E7I4kpE1wIqSTHNbgjsseowGhkabD0Wpl2tiqGNggq5t2WcB%2Br4IOtFcbwxiayf30GFqM%2FAGzwZjQ%2BADUzkjKKH77m38AvK7bfy9KwYvygMb896gYnuMbXlgOu8A5W44TB6Y%2FUZS9NuTT7%2FCXsW8K%2BIWsrCXI2iVQg1cmFa0g1QHVV2bMuYjubokl6VTj48trmPDUiDstlngdr8y62zR1fZtHrFN%2F54lhf1Kk94M1W7JQms4eunc2vPVM1oWPV99peUO27vKSXlg0dSC0nbvZdwvihT9G5WavjJSEaVuiqyxTpipDY%2FQ23hkNw5asOWKivtKIZlbGr9b%2ByE1C3pKMAufbTRw%2BlHra9bInw7%2BHw%3D%3D"></iframe>
 
+kk
