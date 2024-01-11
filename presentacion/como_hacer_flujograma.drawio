@@ -1,29 +1,97 @@
-<mxfile host="Electron" modified="2024-01-09T12:01:31.708Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="JPdiSFHRecU2jTBInPCE" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2024-01-11T17:18:19.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="JJIMVcezX8AFPFAalzvL" version="22.1.18" type="device">
   <diagram name="Page-1" id="jTY0y7oBsAC4PqQySQiH">
-    <mxGraphModel dx="1674" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1098" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kp0vRZ39sJb5cZK4w948-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-1" target="kp0vRZ39sJb5cZK4w948-3">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kp0vRZ39sJb5cZK4w948-1" target="kp0vRZ39sJb5cZK4w948-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-1" value="¿En qué pinares de repoblación debemos de intervenir&lt;br&gt;&amp;nbsp;para maximizar la regeneración de la vegetación natural?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-1" value="¿En qué pinares de repoblación debemos de intervenir&lt;br&gt;&amp;nbsp;para maximizar la regeneración de la vegetación natural?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="130" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-7">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-9">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kp0vRZ39sJb5cZK4w948-3" target="kp0vRZ39sJb5cZK4w948-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-3" value="Pregunta imposible&lt;br&gt;(no sabemos qué hacer)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-3" value="Pregunta imposible&lt;br&gt;(no sabemos qué hacer)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="645" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-7" value="Apelo a lo&lt;br&gt;que sé" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="400" width="80" height="80" as="geometry" />
+        <mxCell id="kp0vRZ39sJb5cZK4w948-7" value="Apelo a lo&lt;br&gt;que sé" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kp0vRZ39sJb5cZK4w948-9" value="Pregunto a quien sepa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kp0vRZ39sJb5cZK4w948-9" value="Pregunto a quien sepa" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W7isqQH4XqxuJizNHOnY-1" target="kp0vRZ39sJb5cZK4w948-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-1" value="Necesitamos saber dónde están los pinares.&lt;br&gt;Es decir, todo esto es espacialmente explícito" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="310" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-3" target="kp0vRZ39sJb5cZK4w948-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-3" value="Podríamos hacer una caracterización de los distintas poblaciones de pinar.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-4" target="W7isqQH4XqxuJizNHOnY-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-4" value="Variables dependientes e independientes" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-7" target="kp0vRZ39sJb5cZK4w948-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-7" value="la respuesta a la pregunta tiene que ver con el solape de nichos entre encinas y pinos" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="650" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-9" target="kp0vRZ39sJb5cZK4w948-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-9" value="ojo, hay que tener en cuenta las variables socioeconómicas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-11" target="kp0vRZ39sJb5cZK4w948-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W7isqQH4XqxuJizNHOnY-11" target="W7isqQH4XqxuJizNHOnY-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-11" value="Los dispersores de semillas (animales) son importantes en el proceso de regeneración" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="240" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-12" target="kp0vRZ39sJb5cZK4w948-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-12" target="W7isqQH4XqxuJizNHOnY-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-12" value="La competencia por nutrientes y luz es importante en los pinares de repoblación" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="350" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W7isqQH4XqxuJizNHOnY-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-13" target="W7isqQH4XqxuJizNHOnY-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-13" value="Solo podremos actuar en los pinares en los que se pueda según la ley" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-17" value="Evaluación o caracterización del terreno" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W7isqQH4XqxuJizNHOnY-21" target="kp0vRZ39sJb5cZK4w948-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W7isqQH4XqxuJizNHOnY-21" value="Es muy importante diseñar mecanismos para evaluar el grado de éxito de las actuaciones de gestión" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="580" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

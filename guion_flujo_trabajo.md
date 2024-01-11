@@ -92,22 +92,22 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 
 
 + Cuestiones que deben de salir a relucir en el proceso:
-  + Necesidad de identificar las variables socioecológicas implicadas en el proceso estudiado.
-  + Grado de investigabilidad de la pregunta en cuestión. 
-  + El papel que podría jugar en nuestro problema la aproximación correlacional.
-  + Existencia de otras formas de generar conocimiento y de responder a la pregunta:
+  + ok Necesidad de identificar las variables socioecológicas implicadas en el proceso estudiado.
+  + ok Grado de investigabilidad de la pregunta en cuestión. 
+  + ok El papel que podría jugar en nuestro problema la aproximación correlacional.
+  + ok Existencia de otras formas de generar conocimiento y de responder a la pregunta:
     + Modelado ecológico.
     + Experimentos controlados.
     + Conocimientos locales y expertos.
-  + Concepto de variable ecológica como descriptora del sistema que estamos estudiando.
-  + Concepto de variable subrogada.
-  + Existencia de distintas formas de representar una variable ecológica relevante.
-  + Idea de fuente de datos.
-  + Procesamientos para transformar datos primarios en variables utilizables para nuestro objetivo.
-  + Grado de espacialización de una variable.
+  + ok Concepto de variable ecológica como descriptora del sistema que estamos estudiando.
+  + ok Concepto de variable subrogada.
+  + ok Existencia de distintas formas de representar una variable ecológica relevante.
+  + ok Idea de fuente de datos.
+  + ok Procesamientos para transformar datos primarios en variables utilizables para nuestro objetivo.
+  + ok Grado de espacialización de una variable.
   + Concepto de serie temporal
   + Hipótesis previas sobre cómo creemos que condicionan las variables consideradas al proceso en cuestión.
-  + Concepto de iteración: repetimos el proceso hasta que estemos contentos
+  + ok Concepto de iteración: repetimos el proceso hasta que estemos contentos
   + 
 
 
@@ -117,6 +117,10 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 + Modus operandi:
   + Diagrama de draw.io con dos flujos de trabajo paralelos.
   + Uno indicando cómo procedemos para hacer el flujo de trabajo
+  + hablemos de variables y de cómo se espacializan.
+    + forma de subrogar procesos ecológicos (y sociales)
+    + fuentes de datos
+    +  
   + otro con el flujo en sí
 
 
