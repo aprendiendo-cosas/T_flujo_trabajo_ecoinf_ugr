@@ -1,7 +1,7 @@
 # Construcción de un flujo de trabajo para responder a la pregunta planteada
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023
 > + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). 
 > + **_Autor_**:  Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: Unas seis horas (tres sesiones de dos horas)
